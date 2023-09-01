@@ -127,19 +127,19 @@ footer {
   position: relative;
 }
 .item:nth-of-type(1) .slider {
-  background: url("./../images/gallery1.png") no-repeat center;
+  background: url("/webdizajnprojekat/images/gallery1.png") no-repeat center;
 }
 .item:nth-of-type(2) .slider {
-  background: url("./../images/gallery2.png") no-repeat center;
+  background: url("/webdizajnprojekat/images/gallery2.png") no-repeat center;
 }
 .item:nth-of-type(3) .slider {
-  background: url("./../images/gallery3.png") no-repeat center;
+  background: url("/webdizajnprojekat/images/gallery3.png") no-repeat center;
 }
 .item:nth-of-type(4) .slider {
-  background: url("./../images/gallery4.png") no-repeat center;
+  background: url("/webdizajnprojekat/images/gallery4.png") no-repeat center;
 }
 .item:nth-of-type(5) .slider {
-  background: url("./../images/gallery5.png") no-repeat center;
+  background: url("/webdizajnprojekat/images/gallery5.png") no-repeat center;
 }
 .item {
   margin-bottom: 100px;
